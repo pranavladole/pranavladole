@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pranavladole
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pranavladole/pranavladole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Pranav Ladole
+- 👀 I’m interested in learning new things that comes in market
+- 🌱 I’m currently learing courses on coursera.
+- 💞️ I’m looking to collaborate on project that is designed for payments.
+- 📫 reach me at pranavladole98@gmail.com
